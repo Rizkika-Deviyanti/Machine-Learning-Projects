@@ -9,7 +9,7 @@ Membangun model AI untuk memprediksi kebutuhan irigasi pada lahan pertanian deng
 - Jenis tanah
 - Jenis tanaman
 
-Model ini dirancang untuk memberikan prediksi yang akurat mengenai jumlah air yang diperlukan untuk irigasi, sehingga petani dapat mengatur irigasi secara efisien sesuai dengan kebutuhan spesifik tanaman dan kondisi lingkungan.
+Model ini dirancang dengan menggunakan algoritma Decision Tree untuk memberikan prediksi yang akurat mengenai jumlah air yang diperlukan untuk irigasi, sehingga petani dapat mengatur irigasi secara efisien sesuai dengan kebutuhan spesifik tanaman dan kondisi lingkungan.
 
 ---
 
