@@ -36,3 +36,6 @@ Pendekatan ini diharapkan mampu memberikan penilaian yang lebih halus, adaptif, 
 
 ### 3. Data Mining
 Membangun **model klasifikasi menggunakan Random Forest** untuk sistem rekomendasi jenis tanaman dan pupuk berdasarkan kondisi lingkungan lahan.
+
+### 4. Datavidia Competition
+Membuat prediksi harga pangan menggunakan algoritma XGBoost
